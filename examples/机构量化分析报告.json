@@ -1,0 +1,390 @@
+{
+  "600036": {
+    "code": "600036",
+    "name": "招商银行",
+    "analysis_time": "2026-07-18 01:20:54",
+    "prediction": {
+      "code": "600036",
+      "name": "招商银行",
+      "current_price": 38.02,
+      "forecast_days": 5,
+      "expected_return": 15.698653762373487,
+      "up_probability": 98.8,
+      "trend_rating": "强烈看多 🟢🟢",
+      "trend_score": 65,
+      "ma5": 38.112,
+      "ma10": 38.11,
+      "ma20": 38.04699999999999,
+      "ma60": 37.91833333333332,
+      "rsi": 58.69565217391361,
+      "volatility_ann": 20.183181609940682,
+      "mom_5d": 3.0911062906724527,
+      "ci_lower": 39.69962236650862,
+      "ci_upper": 48.419084331254645
+    },
+    "calendar_effect": {
+      "code": "600036",
+      "name": "招商银行",
+      "weekday_effect": [
+        {
+          "day": "周一",
+          "avg_return": 0.5917812229873004,
+          "up_prob": 62.5
+        },
+        {
+          "day": "周二",
+          "avg_return": -0.39006226593676085,
+          "up_prob": 25.0
+        },
+        {
+          "day": "周三",
+          "avg_return": 0.18435383949794576,
+          "up_prob": 50.0
+        },
+        {
+          "day": "周四",
+          "avg_return": -0.5046867283610479,
+          "up_prob": 22.22222222222222
+        },
+        {
+          "day": "周五",
+          "avg_return": 0.8383823494683209,
+          "up_prob": 75.0
+        }
+      ],
+      "month_end_return": 0.33719922840735883,
+      "month_start_return": 1.0771244079469167,
+      "friday_return": 0.8383823494683209,
+      "best_day": "周五",
+      "best_day_return": 0.8383823494683209,
+      "best_day_up_prob": 75.0,
+      "worst_day": "周四",
+      "worst_day_return": -0.5046867283610479,
+      "month_day_detail": {}
+    },
+    "liquidity": {
+      "code": "600036",
+      "name": "招商银行",
+      "current_price": 38.02,
+      "capital_amount": 5000,
+      "avg_5min_amount_10k": 6943.325770887502,
+      "avg_daily_amount_100m": 33.62648705837416,
+      "avg_daily_volatility": 1.7812023109729762,
+      "capital_share_pct": 1.4869230887306815,
+      "estimated_impact_cost_pct": 0.10859942025863469,
+      "estimated_impact_cost_amount": 5.429971012931734,
+      "hours_to_build_position": 0.6000966689676265,
+      "recommended_trades_per_day": 2,
+      "liquidity_rating": "极好 🟢🟢",
+      "liquidity_level": 5
+    },
+    "risk": {
+      "code": "600036",
+      "name": "招商银行",
+      "current_price": 38.02,
+      "annual_return_pct": 32.28956279139085,
+      "annual_volatility_pct": 18.87496114907084,
+      "sharpe_ratio": 1.5517681101469545,
+      "max_drawdown_pct": -9.7675633324628,
+      "var_daily_95pct_param": 4.690740799178169,
+      "var_daily_95pct_historical": 1.7032967032966972,
+      "prob_down_1pct_daily": 14.634146341463413,
+      "prob_down_3pct_daily": 0.0,
+      "prob_down_5pct_daily": 0.0,
+      "risk_rating": "低风险 🟢"
+    },
+    "total_score": 54.21807403774087,
+    "recommendation": "谨慎推荐 ⚠️"
+  },
+  "600519": {
+    "code": "600519",
+    "name": "贵州茅台",
+    "analysis_time": "2026-07-18 01:20:56",
+    "prediction": {
+      "code": "600519",
+      "name": "贵州茅台",
+      "current_price": 1253.0,
+      "forecast_days": 5,
+      "expected_return": 15.478893050518009,
+      "up_probability": 92.80000000000001,
+      "trend_rating": "强烈看多 🟢🟢",
+      "trend_score": 65,
+      "ma5": 1257.652,
+      "ma10": 1257.401,
+      "ma20": 1256.034,
+      "ma60": 1254.4429999999998,
+      "rsi": 50.47071129707128,
+      "volatility_ann": 30.064147393588016,
+      "mom_5d": 3.9851283838735894,
+      "ci_lower": 1234.2088329633423,
+      "ci_upper": 1680.0485201758972
+    },
+    "calendar_effect": {
+      "code": "600519",
+      "name": "贵州茅台",
+      "weekday_effect": [
+        {
+          "day": "周一",
+          "avg_return": 0.2512715306650107,
+          "up_prob": 50.0
+        },
+        {
+          "day": "周二",
+          "avg_return": -0.8023425494592771,
+          "up_prob": 12.5
+        },
+        {
+          "day": "周三",
+          "avg_return": 0.501381931597604,
+          "up_prob": 62.5
+        },
+        {
+          "day": "周四",
+          "avg_return": -0.5359308937034167,
+          "up_prob": 44.44444444444444
+        },
+        {
+          "day": "周五",
+          "avg_return": 0.39529909283502335,
+          "up_prob": 50.0
+        }
+      ],
+      "month_end_return": 1.7934695578886124,
+      "month_start_return": -0.2612501388786696,
+      "friday_return": 0.39529909283502335,
+      "best_day": "周三",
+      "best_day_return": 0.501381931597604,
+      "best_day_up_prob": 62.5,
+      "worst_day": "周二",
+      "worst_day_return": -0.8023425494592771,
+      "month_day_detail": {}
+    },
+    "liquidity": {
+      "code": "600519",
+      "name": "贵州茅台",
+      "current_price": 1253.0,
+      "capital_amount": 5000,
+      "avg_5min_amount_10k": 11585.18318125,
+      "avg_daily_amount_100m": 55.53830033332621,
+      "avg_daily_volatility": 2.297944426589782,
+      "capital_share_pct": 0.9002796214488595,
+      "estimated_impact_cost_pct": 0.1090180063518454,
+      "estimated_impact_cost_amount": 5.450900317592271,
+      "hours_to_build_position": 0.359654793668709,
+      "recommended_trades_per_day": 1,
+      "liquidity_rating": "极好 🟢🟢",
+      "liquidity_level": 5
+    },
+    "risk": {
+      "code": "600519",
+      "name": "贵州茅台",
+      "current_price": 1253.0,
+      "annual_return_pct": -12.652231598839354,
+      "annual_volatility_pct": 23.103317866284826,
+      "sharpe_ratio": -0.6774884754401875,
+      "max_drawdown_pct": -9.781987740670372,
+      "var_daily_95pct_param": 5.948602319262871,
+      "var_daily_95pct_historical": 1.9365700861393886,
+      "prob_down_1pct_daily": 34.146341463414636,
+      "prob_down_3pct_daily": 0.0,
+      "prob_down_5pct_daily": 0.0,
+      "risk_rating": "中风险 🟡"
+    },
+    "total_score": 46.62517186191754,
+    "recommendation": "谨慎推荐 ⚠️"
+  },
+  "002594": {
+    "code": "002594",
+    "name": "比亚迪",
+    "analysis_time": "2026-07-18 01:20:59",
+    "prediction": {
+      "code": "002594",
+      "name": "比亚迪",
+      "current_price": 93.47,
+      "forecast_days": 5,
+      "expected_return": -30.522456949365495,
+      "up_probability": 0.2,
+      "trend_rating": "强烈看空 🔴🔴",
+      "trend_score": 15,
+      "ma5": 93.922,
+      "ma10": 93.94200000000001,
+      "ma20": 93.3385,
+      "ma60": 93.48633333333332,
+      "rsi": 60.4904632152588,
+      "volatility_ann": 37.82465105652037,
+      "mom_5d": 3.8555555555555543,
+      "ci_lower": 51.88427181410528,
+      "ci_upper": 79.5872887089521
+    },
+    "calendar_effect": {
+      "code": "002594",
+      "name": "比亚迪",
+      "weekday_effect": [
+        {
+          "day": "周一",
+          "avg_return": -0.782439590136301,
+          "up_prob": 25.0
+        },
+        {
+          "day": "周二",
+          "avg_return": 0.3424085352305137,
+          "up_prob": 62.5
+        },
+        {
+          "day": "周三",
+          "avg_return": -0.5976072666709034,
+          "up_prob": 37.5
+        },
+        {
+          "day": "周四",
+          "avg_return": 0.37888211391873755,
+          "up_prob": 55.55555555555556
+        },
+        {
+          "day": "周五",
+          "avg_return": 0.7502951606638317,
+          "up_prob": 62.5
+        }
+      ],
+      "month_end_return": 0.7432207881905276,
+      "month_start_return": 0.6316360103154542,
+      "friday_return": 0.7502951606638317,
+      "best_day": "周五",
+      "best_day_return": 0.7502951606638317,
+      "best_day_up_prob": 62.5,
+      "worst_day": "周一",
+      "worst_day_return": -0.782439590136301,
+      "month_day_detail": {}
+    },
+    "liquidity": {
+      "code": "002594",
+      "name": "比亚迪",
+      "current_price": 93.47,
+      "capital_amount": 5000,
+      "avg_5min_amount_10k": 9998.804652172916,
+      "avg_daily_amount_100m": 39.949897044381245,
+      "avg_daily_volatility": 3.008893856604657,
+      "capital_share_pct": 1.2515676809993743,
+      "estimated_impact_cost_pct": 0.16830772196909616,
+      "estimated_impact_cost_amount": 8.415386098454809,
+      "hours_to_build_position": 0.4167164787804086,
+      "recommended_trades_per_day": 2,
+      "liquidity_rating": "极好 🟢🟢",
+      "liquidity_level": 5
+    },
+    "risk": {
+      "code": "002594",
+      "name": "比亚迪",
+      "current_price": 93.47,
+      "annual_return_pct": 6.829776145545681,
+      "annual_volatility_pct": 35.03828212091791,
+      "sharpe_ratio": 0.10930262312316101,
+      "max_drawdown_pct": -19.181479950392767,
+      "var_daily_95pct_param": 8.918350096529531,
+      "var_daily_95pct_historical": 2.956958556912892,
+      "prob_down_1pct_daily": 39.02439024390244,
+      "prob_down_3pct_daily": 4.878048780487805,
+      "prob_down_5pct_daily": 0.0,
+      "risk_rating": "高风险 🔴"
+    },
+    "total_score": 5.333256557807903,
+    "recommendation": "回避 ❌"
+  },
+  "300750": {
+    "code": "300750",
+    "name": "宁德时代",
+    "analysis_time": "2026-07-18 01:21:03",
+    "prediction": {
+      "code": "300750",
+      "name": "宁德时代",
+      "current_price": 360.0,
+      "forecast_days": 5,
+      "expected_return": -30.617565797084477,
+      "up_probability": 0.8999999999999999,
+      "trend_rating": "强烈看空 🔴🔴",
+      "trend_score": 15,
+      "ma5": 363.212,
+      "ma10": 365.10499999999996,
+      "ma20": 365.76550000000003,
+      "ma60": 367.27683333333334,
+      "rsi": 32.04452255418859,
+      "volatility_ann": 45.59261758971047,
+      "mom_5d": 3.222846656726692,
+      "ci_lower": 190.5430496839364,
+      "ci_upper": 321.1175247073242
+    },
+    "calendar_effect": {
+      "code": "300750",
+      "name": "宁德时代",
+      "weekday_effect": [
+        {
+          "day": "周一",
+          "avg_return": 0.5443492788994848,
+          "up_prob": 50.0
+        },
+        {
+          "day": "周二",
+          "avg_return": 0.39734768333443554,
+          "up_prob": 62.5
+        },
+        {
+          "day": "周三",
+          "avg_return": -0.595485102722594,
+          "up_prob": 37.5
+        },
+        {
+          "day": "周四",
+          "avg_return": -0.5380124442130122,
+          "up_prob": 33.33333333333333
+        },
+        {
+          "day": "周五",
+          "avg_return": -1.3382368533571458,
+          "up_prob": 25.0
+        }
+      ],
+      "month_end_return": 1.7162770428070202,
+      "month_start_return": 0.009822163379321255,
+      "friday_return": -1.3382368533571458,
+      "best_day": "周一",
+      "best_day_return": 0.5443492788994848,
+      "best_day_up_prob": 50.0,
+      "worst_day": "周五",
+      "worst_day_return": -1.3382368533571458,
+      "month_day_detail": {}
+    },
+    "liquidity": {
+      "code": "300750",
+      "name": "宁德时代",
+      "current_price": 360.0,
+      "capital_amount": 5000,
+      "avg_5min_amount_10k": 27337.58145,
+      "avg_daily_amount_100m": 139.51941500186976,
+      "avg_daily_volatility": 3.7874919720920377,
+      "capital_share_pct": 0.3583730622675699,
+      "estimated_impact_cost_pct": 0.11336771785735257,
+      "estimated_impact_cost_amount": 5.6683858928676285,
+      "hours_to_build_position": 0.1524153361659821,
+      "recommended_trades_per_day": 1,
+      "liquidity_rating": "极好 🟢🟢",
+      "liquidity_level": 5
+    },
+    "risk": {
+      "code": "300750",
+      "name": "宁德时代",
+      "current_price": 360.0,
+      "annual_return_pct": -78.53986856264105,
+      "annual_volatility_pct": 40.63866604632626,
+      "sharpe_ratio": -2.0064602629842536,
+      "max_drawdown_pct": -19.620180230012206,
+      "var_daily_95pct_param": 10.686925147921,
+      "var_daily_95pct_historical": 4.272782702499889,
+      "prob_down_1pct_daily": 41.46341463414634,
+      "prob_down_3pct_daily": 12.195121951219512,
+      "prob_down_5pct_daily": 4.878048780487805,
+      "risk_rating": "高风险 🔴"
+    },
+    "total_score": 2.77,
+    "recommendation": "回避 ❌"
+  }
+}
